@@ -1,0 +1,12 @@
+{
+  "name": "editor-v2-deps",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Guilded, Inc.",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "slate": "^0.82.1",
+    "slate-react": "^0.83.1"
+  }
+}
