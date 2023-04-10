@@ -54,17 +54,17 @@ scroll-into-view-if-needed@^2.2.20:
   dependencies:
     compute-scroll-into-view "^1.0.20"
 
-slate-history@0.86.0:
-  version "0.86.0"
-  resolved "https://registry.yarnpkg.com/slate-history/-/slate-history-0.86.0.tgz#5554612271d2fc1018a7918be3961bb66e620c58"
-  integrity sha512-OxObL9tbhgwvSlnKSCpGIh7wnuaqvOj5jRExGjEyCU2Ke8ctf22HjT+jw7GEi9ttLzNTUmTEU3YIzqKGeqN+og==
+slate-history@0.93.0:
+  version "0.93.0"
+  resolved "https://registry.yarnpkg.com/slate-history/-/slate-history-0.93.0.tgz#d2fad47e4e8b262ab7c86b653f5dd6d9b6d85277"
+  integrity sha512-Gr1GMGPipRuxIz41jD2/rbvzPj8eyar56TVMyJBvBeIpQSSjNISssvGNDYfJlSWM8eaRqf6DAcxMKzsLCYeX6g==
   dependencies:
     is-plain-object "^5.0.0"
 
-slate-react@0.91.8:
-  version "0.91.8"
-  resolved "https://registry.yarnpkg.com/slate-react/-/slate-react-0.91.8.tgz#2c09904078f5ceb44871975610f1fe28a68db20c"
-  integrity sha512-TjM3rKSi5eLOGou6VJv/Jty37HhBqIlA7AKyj3oBxiHBoxY0zU9SGjL5q3p7vJijaxu+lujZ8fd9FAneVDqssw==
+slate-react@0.93.0:
+  version "0.93.0"
+  resolved "https://registry.yarnpkg.com/slate-react/-/slate-react-0.93.0.tgz#62988e0dc278b907e479c77fcca8b71f68ae64dc"
+  integrity sha512-yzQYA91N7ELA8295TsY/Nig2sOq7mhi4HuvqX/Ay1jjs+Pnp8+BTYpIzmi9ruvnwovdwtDm+pdNO8LzPeJaKcQ==
   dependencies:
     "@juggle/resize-observer" "^3.4.0"
     "@types/is-hotkey" "^0.1.1"
@@ -76,10 +76,10 @@ slate-react@0.91.8:
     scroll-into-view-if-needed "^2.2.20"
     tiny-invariant "1.0.6"
 
-slate@0.91.4:
-  version "0.91.4"
-  resolved "https://registry.yarnpkg.com/slate/-/slate-0.91.4.tgz#759764d63c8a8a7aff29a29e598e593ed80277f9"
-  integrity sha512-aUJ3rpjrdi5SbJ5G1Qjr3arytfRkEStTmHjBfWq2A2Q8MybacIzkScSvGJjQkdTk3djCK9C9SEOt39sSeZFwTw==
+slate@0.93.0:
+  version "0.93.0"
+  resolved "https://registry.yarnpkg.com/slate/-/slate-0.93.0.tgz#12956a4c164a00c6839998f0803e52b9c31c771e"
+  integrity sha512-80IktTrGJU9/MzOp8T4fgXfMMedeG1qx0Y/EiABd68Qm9iFgJ9khnAt8clDfYyFDTs7erXJpjbQoZnV0XKuqfA==
   dependencies:
     immer "^9.0.6"
     is-plain-object "^5.0.0"
