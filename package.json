@@ -6,6 +6,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "slate": "0.101.1",
     "slate-react": "0.101.1"
   }
 }
