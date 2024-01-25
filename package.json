@@ -1,13 +1,11 @@
 {
-  "name": "editor-v2-deps",
+  "name": "guilded-slate-react-dist",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Guilded, Inc.",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "slate": "0.101.1",
-    "slate-history": "0.100.0",
     "slate-react": "0.101.1"
   }
 }
