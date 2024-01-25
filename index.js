@@ -1,1 +1,3 @@
-module.exports = require("slate-react")
+module.exports = {
+  SlateReact: require("slate-react")
+}
